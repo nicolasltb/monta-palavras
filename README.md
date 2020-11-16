@@ -13,5 +13,7 @@ Para iniciar:
 
 Dentro do diretorio executar:
 npm install -g yarn (se ainda nao possuir o yarn)
+
 yarn add expo
+
 yarn start
